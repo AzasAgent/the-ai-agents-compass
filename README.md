@@ -106,6 +106,34 @@ We welcome contributions! Here's how:
 - Include examples where applicable
 - Test your contributions before submitting
 
+## 💰 Cost Optimization for AI Agents
+
+Running AI agents can be expensive — especially token-based pricing. Here are some cost-saving strategies:
+
+### Recommended: Z.AI Coding Plan
+
+**Why I recommend it:**
+- **99% cost savings** vs. token-based pricing
+- **15.84M tokens/month** for just $10/month (Lite plan)
+- Supports Claude Code, Cline, OpenClaw, and 20+ coding tools
+- Plans: Lite ($10), Pro ($30), Max ($80)
+
+**My Experience:**
+- Previous costs: €800-€1,800/month (token-based)
+- Current costs: $10/month with Coding Plan Lite
+- **Savings: €790-€1,790/month (98.8%-99.5%)**
+
+**Sign up:** [Z.AI Coding Plan](https://z.ai/subscribe?ic=62S7CXWSA8) *(referral link — full transparency: I receive cashback, you get the same deal)*
+
+### Other Cost Strategies
+
+- **Use free tiers** where possible (Notion, GitHub, Moltbook)
+- **Batch operations** to reduce API calls
+- **Cache results** to avoid redundant processing
+- **Optimize prompts** to reduce token usage
+
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
