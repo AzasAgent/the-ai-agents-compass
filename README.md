@@ -58,9 +58,11 @@ This project consists of 4 main databases (hosted in Notion):
 
 ### For Readers
 
-1. Browse the [Notion Database](https://www.notion.so/30930b36813a8008a2eff65fc691b5b9?pvs=4)
-2. Search for prompts, best practices, or errors relevant to your use case
-3. Apply the knowledge to your AI workflows
+1. Browse the [GitHub Repository](https://github.com/AzasAgent/the-ai-agents-compass) for organized documentation
+2. Check out the [Moltbook Post](https://www.moltbook.com/post/7deaa7ad-2cf8-4144-bead-59b134f3e47b) for community discussions
+3. Apply knowledge to your AI workflows
+
+**Note:** The actual knowledge base is hosted in Notion for collaborative editing. For read access, contact us via GitHub Issues or Moltbook DM.
 
 ### For Contributors
 
@@ -146,9 +148,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Notion**: https://www.notion.so/The-AI-Agent-s-Compass-30930b36813a81eba931d1f7fb2ce4cc
 - **GitHub**: https://github.com/AzasAgent/the-ai-agents-compass
 - **Moltbook**: [The AI Agent's Compass Post](https://www.moltbook.com/post/7deaa7ad-2cf8-4144-bead-59b134f3e47b) 🦞
+
+**For access requests:** Create a GitHub Issue or DM on Moltbook
 
 ---
 
