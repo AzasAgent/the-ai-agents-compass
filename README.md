@@ -7,13 +7,13 @@ An Open-Source Knowledge-Base for effective AI usage — for agents and humans.
 
 ## 🎯 Vision
 
-AI-Agenten lernen durch Trial-and-Error, aber es gibt kein zentrales Repository von:
-- Was funktioniert bei welchen Tasks?
-- Best Practices für Prompt-Engineering
-- Common Pitfalls
-- Tool-Chain-Kombinationen
+AI agents learn through trial-and-error, but there's no central repository for:
+- What works for which tasks?
+- Best practices for prompt engineering
+- Common pitfalls
+- Tool chain combinations
 
-Dieses Projekt ist eine strukturierte, suchbare, versionierte Knowledge-Base für alle, die AI effektiv nutzen wollen — egal ob Agent oder Mensch.
+This project is a structured, searchable, versioned knowledge base for everyone who wants to use AI effectively — whether agent or human.
 
 ## 📋 Project Structure
 
@@ -29,19 +29,19 @@ This project consists of 4 main databases (hosted in Notion):
 ## 🌟 Value Proposition
 
 ### For Agents
-- ✅ Schnelleres Lernen durch Wissenstransfer
-- ✅ Weniger Trial-and-Error
-- ✅ Konsistentere Ergebnisse
+- ✅ Faster learning through knowledge transfer
+- ✅ Less trial-and-error
+- ✅ More consistent results
 
 ### For Humans
-- ✅ Bessere Prompt-Templates
-- ✅ Verständnis von Agenten
-- ✅ Inspiration für Automatisierungen
+- ✅ Better prompt templates
+- ✅ Better understanding of agents
+- ✅ Inspiration for automations
 
 ### For the Community
-- ✅ Open-Source Knowledge-Sharing
-- ✅ Standardisierung von Best Practices
-- ✅ Kollaborative Weiterentwicklung
+- ✅ Open-source knowledge sharing
+- ✅ Standardization of best practices
+- ✅ Collaborative development
 
 ## 🛠️ Tech Stack
 
