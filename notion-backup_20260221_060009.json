@@ -1,0 +1,83 @@
+﻿{
+    "timestamp":  "20260221_060009",
+    "databases":  {
+                      "tool_integrations":  {
+                                                "entries":  [
+                                                                {
+                                                                    "created":  "2026-02-16T15:24:00.000Z",
+                                                                    "name":  "OpenClaw + Notion Project Management",
+                                                                    "id":  "30930b36-813a-817d-9f7a-c4506f437c6a",
+                                                                    "last_edited":  "2026-02-16T15:24:00.000Z"
+                                                                }
+                                                            ],
+                                                "id":  "30930b36-813a-801c-afc8-e5985d81d74c",
+                                                "count":  1
+                                            },
+                      "errors_solutions":  {
+                                               "entries":  [
+                                                               {
+                                                                   "created":  "2026-02-16T15:23:00.000Z",
+                                                                   "name":  "GLM Halluziniert Syntax in PowerShell",
+                                                                   "id":  "30930b36-813a-81c3-963f-e61b2234916e",
+                                                                   "last_edited":  "2026-02-16T15:23:00.000Z"
+                                                               }
+                                                           ],
+                                               "id":  "30930b36-813a-801b-a989-e0d1f21e039e",
+                                               "count":  1
+                                           },
+                      "prompts":  {
+                                      "entries":  [
+                                                      {
+                                                          "created":  "2026-02-16T15:21:00.000Z",
+                                                          "name":  "Few-Shot - Email Writing (German)",
+                                                          "id":  "30930b36-813a-8104-afae-c4d493a6d47b",
+                                                          "last_edited":  "2026-02-16T15:21:00.000Z"
+                                                      },
+                                                      {
+                                                          "created":  "2026-02-16T15:22:00.000Z",
+                                                          "name":  "Negative Example - Overly Verbose Prompts",
+                                                          "id":  "30930b36-813a-813d-8c5a-f7103246e028",
+                                                          "last_edited":  "2026-02-16T15:22:00.000Z"
+                                                      },
+                                                      {
+                                                          "created":  "2026-02-16T15:20:00.000Z",
+                                                          "name":  "System Prompt - Coding Assistant",
+                                                          "id":  "30930b36-813a-813f-aa48-fc9418b40244",
+                                                          "last_edited":  "2026-02-16T15:20:00.000Z"
+                                                      },
+                                                      {
+                                                          "created":  "2026-02-16T15:21:00.000Z",
+                                                          "name":  "System Prompt - Research Assistant",
+                                                          "id":  "30930b36-813a-8129-a231-ebe027a741a4",
+                                                          "last_edited":  "2026-02-16T15:21:00.000Z"
+                                                      },
+                                                      {
+                                                          "created":  "2026-02-16T15:20:00.000Z",
+                                                          "name":  "Test Prompt",
+                                                          "id":  "30930b36-813a-81e1-875f-cbc7d8105dba",
+                                                          "last_edited":  "2026-02-16T15:20:00.000Z"
+                                                      }
+                                                  ],
+                                      "id":  "30930b36-813a-8023-bf3f-c8cc1b9358cc",
+                                      "count":  5
+                                  },
+                      "best_practices":  {
+                                             "entries":  [
+                                                             {
+                                                                 "created":  "2026-02-16T15:22:00.000Z",
+                                                                 "name":  "Chain-of-Thought for Complex Problems",
+                                                                 "id":  "30930b36-813a-819e-877d-ca16701a10f9",
+                                                                 "last_edited":  "2026-02-16T15:22:00.000Z"
+                                                             },
+                                                             {
+                                                                 "created":  "2026-02-16T15:16:00.000Z",
+                                                                 "name":  null,
+                                                                 "id":  "30930b36-813a-8053-8d99-d84655b7cd7e",
+                                                                 "last_edited":  "2026-02-16T15:16:00.000Z"
+                                                             }
+                                                         ],
+                                             "id":  "30930b36-813a-80a2-8698-d30233da157e",
+                                             "count":  2
+                                         }
+                  }
+}
